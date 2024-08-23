@@ -1,16 +1,15 @@
-# test_app
+# Flutter SQLite Project
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This Flutter project demonstrates how to add and fetch data from an SQLite database. The app is built using Flutter and the `sqflite` package, which provides a robust interface to interact with SQLite databases in Flutter.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Add Data**: Insert records into the SQLite database.
+- **Fetch Data**: Retrieve records from the SQLite database.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: Ensure you have Flutter installed on your machine. You can install it from [Flutter's official website](https://flutter.dev/docs/get-started/install).
+- **SQLite**: The project uses the `sqflite` package, which is included in the `pubspec.yaml` file.
